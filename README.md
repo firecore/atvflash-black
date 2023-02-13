@@ -9,7 +9,7 @@ https://community.firecore.com/c/legacy/2nd-gen-apple-tv/12
 
 Copyright © 2010-2018 Firecore, LLC. All rights reserved.
 
-**Release notes**
+## Release notes
 
 2.6.1 Jan-19-2018
 - Compatibility with macOS 10.13
